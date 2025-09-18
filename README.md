@@ -71,6 +71,7 @@ if ack:
  print(ack)
 c.close()
 ```
+
 ### Client
 ```python
 import socket
